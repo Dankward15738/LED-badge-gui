@@ -10,3 +10,5 @@ Diese Tatsache hat mich angeregt, eine Oberfläche in TKInter zu schreiben.
 ![Bild der Oberfläche](Desktop.png)
 
  Die Oberfäche in seine jetzigen Form reizt noch nicht alle Möglichkeiten des LED-badge aus, ist aber schon für die meisten Anwendungen schon recht nützlich. 
+
+ Der Programmtext muss in dem gleichen Ordner stehen wie die Datei „lednamebadge.py“ und ausführbar gemacht werden. 
